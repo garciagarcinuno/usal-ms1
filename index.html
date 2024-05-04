@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <title>This is the page title.</title>
+    <title>Title</title>
     <meta name="description" content="Description" />
     <meta name="keywords" content="keyword, keyword, keyword" />
 
@@ -32,21 +32,19 @@
   </head>
   <body>
     <main>
-      <h1>Elements from Xurxe's experiment</h1>
-      <h2>I am a top level heading</h2>
+      <h1>I am a top level heading</h1>
       <p>I am a paragraph</p>
       <ol>
         <li>I am list item 1</li>
         <li>I am list item 2</li>
       </ol>
+      <a href="https://source.unsplash.com" title="Image source"><img
+        src="https://source.unsplash.com/collection/1889046/100x100" alt="I am an informative image"
+      /></a>
       <img
         src="https://source.unsplash.com/collection/1889046/100x100"
-        alt="I am an informative image"
-      />
-      <img
-        src="https://source.unsplash.com/collection/1889046/100x100"
-        alt="I am an informative image with an explicit lang attribute"
-        lang="en"
+        alt="Soy una imagen con atributo explícito."
+        lang="es"
       />
       <img
         src="https://source.unsplash.com/collection/1889046/100x100"
@@ -54,17 +52,34 @@
       />
       <br />
       <button>I am a button</button>
+	   <button lang="es">Soy un botón</button>
       <br />
       <span lang="es">Hola, estoy en otro idioma, jeje.</span>
-      <h2>Additional elements</h2>
-      <h3>Time</h3>
-      <p>The following date was written using a time tag and a datetime attribute: <time datetime="2024-03-02T18:30:00">March 2, 2024, at 6:30 PM</time>.</p>
-      <p>The following date was written using the time tag but no datetime attribute: <time>March 2, 2024, at 6:30 PM</time>.</p>
-      <p>The following date was written using a span <span>March 2, 2024, at 6:30 PM</span>.</p>
-      <p>The following date was written without tags nor attributes: March 2, 2024, at 6:30 PM.</p>
-      <p style="font-size: 18px;">Authors: Álvaro García Garcinuño and Jesús Torres del Rey<br />
-        Universidad de Salamanca
-      </p>
+	  <p>Here are some <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time">examples of the <code>time</code> element from Mozilla Developer</a>:</p>
+	  <blockquote>
+      
+  The Cure will be celebrating their 40th anniversary on <time datetime="2018-07-07" lang="en-GB">July 7</time> and <time datetime="2018-07-08">8 July</time> in London's Hyde
+  Park.
+
+
+</br>
+  The concert starts at <time datetime="20:00" lang="en-GB">20:00</time> and you'll be able to enjoy the band for at least <time datetime="PT2H15M">2h15m</time> or
+  <time datetime="PT2H30M">2h30m</time>.
+</blockquote>
+<p>Here are some <a href="https://www.w3schools.com/tags/tag_time.asp">examples of the <code>time</code> element from W3Schools:</a></p>
+	  <blockquote>
+  Open from <time>10:00</time> to <time>21:00</time> every weekday.<br>
+I have a date on <time datetime="02-14">Valentines day</time>.
+</blockquote>
+<p>Today is 2024-04-19 and NOT <time datetime="2020-05-20" lang="es">19-04-2019</time></p>
+<p>This is a <a href="tel:+34923123456" lang="es" title="+34923123456"><span lang="en">Spanish phone number</span></a></p>
+<p>I am paying $5,000</p>
+<p lang="es">Son 4&nbsp;500&nbsp;€</p>
+<p>This is 1,000,000,000 in English</p>
+<p lang="es">Equivale a 1.000.000.000 en español</p>
+<p><a href="https://whpintl.com/blog/localization-measurement-units-dita/" target="_blank" title="Nueva ventana"><abbr lang="de" title="Wegwitz Höser und Partners">WhP</abbr></a>: <q>17 psia (1.17 bara) to 101 psia (6.96 bara) at 68 °F (20 °C)</q></p>
+<p lang="es">Ejemplo de mala pronunciacion de pálabras (esdrujula, caliz, balon, balón, campó, escásez, avénida, avenida)</p>
+     
     </main>
   </body>
 </html>

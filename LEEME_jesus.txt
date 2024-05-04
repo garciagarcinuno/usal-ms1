@@ -1,0 +1,3 @@
+En index1 he hecho el siguiente cambio:
+-en la imagen con atributo de idioma explícito, la he cambiado a lang="es" y le he puesto texto en español.
+He añadido más cosas según hemos ido viendo que faltaban.
