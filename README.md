@@ -12,7 +12,7 @@ We chose our SRs and browser combinations based on the latest SR usage survey (W
 
 - **JAWS with Chrome and Edge (Windows)**. Vocalizer Expressive synthesiser.
 - **NVDA with Chrome and Firefox (Windows)**. Vocalizer Expressive synthesiser.
-- **VoiceOver with Safari, for Mac OS and iOS**. Built-in synthesisers. When a comment is made specifically for the Mac OS, we will abbreviate it as VO-Mac; for the iOS, we will use VO-iOS.
+- **VoiceOver with Safari, for Mac OS and iOS**. Built-in synthesisers.
 - **TalkBack with Chrome (Android)**. Samsung TTS synthesiser.
 
 ## Methodological Outline
