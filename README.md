@@ -18,10 +18,10 @@ We chose our SRs and browser combinations based on the latest SR usage survey (W
 ## Methodological Outline
 
 Here's a quick summary of what we did:
-1. Initial Review: We analyzed Toivo García's article and data, re-testing his experiments with the same SRs. 
-2. Refocusing the Experiments: We adjusted García's experiments to fit our research goals, adding elements typical of translation tools and e-dictionaries.
-3. Recording Interactions: We recorded how screen readers handled our enhanced test pages, noting translation issues and their causes. We aimed to understand the reasons behind the screen readers' performances.
-4. Results and Conclusions: We identified patterns from our tests, categorized them, and discussed our findings, leading to our conclusions and suggestions for future research.
+1. **Initial Review**: We analyzed Toivo García's article and data, re-testing his experiments with the same SRs. 
+2. **Refocusing the Experiments**: We adjusted García's experiments to fit our research goals, adding elements typical of translation tools and e-dictionaries.
+3. **Recording Interactions**: We recorded how screen readers handled our enhanced test pages, noting translation issues and their causes. We aimed to understand the reasons behind the screen readers' performances.
+4. **Results and Conclusions**: We identified patterns from our tests, categorized them, and discussed our findings, leading to our conclusions and suggestions for future research.
 
 We are currently in the process of finalizing an article that will provide a comprehensive overview of our research. Once it is published, we will update this read.me file with the link for those interested in delving into the details. Thank you for your patience.
 
