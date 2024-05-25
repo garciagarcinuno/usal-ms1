@@ -44,7 +44,7 @@ Jesús Torres-del-Rey (INICO, Universidad de Salamanca)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.  
+This project is licensed under the MIT License - see the [LICENSE](https://garciagarcinuno.github.io/usal-ms1/blob/main/LICENSE) file for details.  
   
 
 **First published**: May 25, 2024  
