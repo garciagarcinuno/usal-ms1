@@ -23,7 +23,7 @@ Here's a quick summary of what we did:
 3. **Recording Interactions**: We recorded how screen readers handled our enhanced test pages, noting translation issues and their causes. We aimed to understand the reasons behind the screen readers' performances.
 4. **Results and Conclusions**: We identified patterns from our tests, categorized them, and discussed our findings, leading to our conclusions and suggestions for future research.
 
-We are currently in the process of finalizing an article that will provide a comprehensive overview of our research. Once it is published, we will update this read.me file with the link for those interested in delving into the details. Thank you for your patience.
+We are currently in the process of finalizing an article that will provide a comprehensive overview of our research. Once it is published, we will update this README with the link for those interested in delving into the details. Thank you for your patience!
 
 ## Testing site
 
