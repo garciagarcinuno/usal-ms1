@@ -33,7 +33,7 @@ We are currently in the process of finalizing an article that will provide a com
 
 ## Related resources
 
-- [Accessible labelling multilanguage experiment](https://github.com/xurxe/accessible-labelling-multilanguage-experiment), the original experiment by Xurxe Toivo García which motivated our research and this experiment.
+- [Accessible labelling multilanguage experiment](https://github.com/xurxe/accessible-labelling-multilanguage-experiment), the original experiment by Xurxe Toivo García, which motivated our research and this experiment.
 - Toivo García, Xurxe (2020). “The troubled state of screen readers in multilingual situations”. UX Collective. [https://uxdesign.cc/the-troubled-state-of-screen-readers-in-multilingual-situations-f6a9da4ecdf3](https://uxdesign.cc/the-troubled-state-of-screen-readers-in-multilingual-situations-f6a9da4ecdf3).
 - WebAIM (2020). "Semantic Structure: Regions, Headings, and Lists". WebAIM. Institute for Disability Research, Policy, and Practice (Utah State University). [https://webaim.org/techniques/semanticstructure](https://webaim.org/techniques/semanticstructure).
 
