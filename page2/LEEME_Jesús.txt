@@ -1,0 +1,1 @@
+He hecho el siguiente cambio: en la segunda imagen (lang explícito), he cambiado el lang a ES y he puesto el contenido del aria-label en español.
