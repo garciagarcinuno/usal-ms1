@@ -39,8 +39,8 @@ We are currently in the process of finalizing an article that will provide a com
 
 ## Authors
 
-Álvaro García-Garcinuño (Universidad de Salamanca/Universidad de Puerto Rico)
-Jesús Torres-del-Rey (INICO, Universidad de Salamanca)
+Álvaro García-Garcinuño (Universidad de Salamanca/Universidad de Puerto Rico)  
+Jesús Torres-del-Rey (INICO, Universidad de Salamanca)  
 
-**First published**: May 25, 2024
+**First published**: May 25, 2024  
 **Last updated**: May 25, 2024
