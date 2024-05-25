@@ -42,5 +42,10 @@ We are currently in the process of finalizing an article that will provide a com
 Álvaro García-Garcinuño (Universidad de Salamanca/Universidad de Puerto Rico)  
 Jesús Torres-del-Rey (INICO, Universidad de Salamanca)  
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.  
+  
+
 **First published**: May 25, 2024  
 **Last updated**: May 25, 2024
