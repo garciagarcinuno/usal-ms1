@@ -25,10 +25,10 @@ Here's a quick summary of what we did:
 
 We are currently in the process of finalizing an article that will provide a comprehensive overview of our research. Once it is published, we will update this README with the link for those interested in delving into the details. Thank you for your patience!
 
-## Testing site
+## Testing sites
 
-- [Experiment 1](https://garciagarcinuno.github.io/usal-ms1/page1)
-- [Experiment 2](https://garciagarcinuno.github.io/usal-ms1/page2)
+- [Experiment 1](https://garciagarcinuno.github.io/usal-ms1/experiment1)
+- [Experiment 2](https://garciagarcinuno.github.io/usal-ms1/experiment2)
 
 
 ## Related resources
